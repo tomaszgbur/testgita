@@ -19,3 +19,7 @@ public void logowanieMicrosoft() {
 public void przypomnijHaslo() {        
         System.out.println("Kliknij na przycisk przypomnij haslo");
     }
+
+public void helloWorld() {
+        System.out.println("Hello");
+    }
